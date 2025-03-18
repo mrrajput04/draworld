@@ -11,7 +11,7 @@ export default function Navbar() {
     <header className="bg-black text-white py-4">
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold">
-          DESIGN DRA
+          <img src="NWL2 E.png" alt="" className="h-16" />
         </Link>
 
         {/* Mobile menu button */}

@@ -8,7 +8,7 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Archix | Architectural Excellence",
+  title: "DRA | Architectural Excellence",
   description: "Transform your vision into reality with our innovative architectural solutions.",
     generator: 'v0.dev'
 }
@@ -20,6 +20,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <link
+  rel="icon"
+  href="NWL2 E.png"
+  type="image/<generated>"
+  sizes="<generated>"
+/>
       <body className={inter.className}>
         <Navbar />
         <main>{children}</main>
