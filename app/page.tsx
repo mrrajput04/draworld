@@ -25,7 +25,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
               Crafting Spaces
               <br />
-              Designing Dreams
+              <div className="text-gray-400">Designing Dreams</div>
             </h1>
             <p className="text-lg md:text-xl mb-8 text-gray-300">
               Transform your vision into reality with our innovative architectural solutions. We create spaces that
