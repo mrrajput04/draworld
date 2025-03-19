@@ -11,21 +11,21 @@ export default function ProjectsPage() {
       category: "Residential",
       title: "Modern Eco House",
       description: "Sustainable living space with minimalist design approach",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://res.cloudinary.com/dvStorage/image/upload/arch-tech-images/master_bedroom.jpg?height=400&width=600",
     },
     {
       id: 2,
       category: "Commercial",
       title: "Urban Office Complex",
       description: "Contemporary workspace design for modern businesses",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://res.cloudinary.com/dvStorage/image/upload/arch-tech-images/master_bedroom.jpg?height=400&width=600",
     },
     {
       id: 3,
       category: "Cultural",
       title: "Art Gallery",
       description: "Innovative space designed for artistic expression",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://res.cloudinary.com/dvStorage/image/upload/arch-tech-images/master_bedroom.jpg?height=400&width=600",
     },
   ]
 
