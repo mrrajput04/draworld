@@ -36,7 +36,7 @@ export default function AboutPage() {
     {
       year: "2003",
       title: "Company Founded",
-      description: "Archix was established with a vision to create innovative architectural solutions.",
+      description: "Draworld was established with a vision to create innovative architectural solutions.",
     },
     {
       year: "2008",
@@ -84,7 +84,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
               <p className="text-gray-600 mb-4">
-                Founded in 2003, Archix has grown from a small design studio to a leading architectural firm with a
+                Founded in 2003, Draworld has grown from a small design studio to a leading architectural firm with a
                 global presence. Our journey has been defined by a relentless pursuit of excellence and innovation in
                 architectural design.
               </p>
@@ -119,7 +119,7 @@ export default function AboutPage() {
             </div>
 
             <div className="relative aspect-[4/3] rounded-lg overflow-hidden">
-              <Image src="/placeholder.svg?height=600&width=800" alt="Archix team" fill className="object-cover" />
+              <Image src="/placeholder.svg?height=600&width=800" alt="Draworld team" fill className="object-cover" />
             </div>
           </div>
         </div>
