@@ -40,9 +40,9 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Email Us</h3>
                 <p className="text-gray-600">
-                  info@archix.com
+                  info@draworld.com
                   <br />
-                  support@archix.com
+                  support@draworld.com
                 </p>
               </CardContent>
             </Card>
